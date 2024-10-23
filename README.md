@@ -1,4 +1,4 @@
-# Pseudorandom-Number-Generator
+# Pseudorandom Number Generator
 
 This project generates and analyzes sequences from three pseudorandom number generators (PRNGs): the Linear Congruential Generator (LCG), IBM's RANDU, and Python's built-in PRNG. The goal is to generate sequences, visualize them, and compare their randomness properties.
 
